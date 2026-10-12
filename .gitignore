@@ -1,0 +1,11 @@
+**/node_modules/
+backend/target/
+frontend/dist/
+**/.env
+**/.env.*
+*.log
+backend/startup-log.txt
+backend/backend-error.txt
+backend/error-log.txt
+.vscode/
+.idea/
